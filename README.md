@@ -17,7 +17,7 @@ You are able to customize the keyboard shortcut under the extensions settings pa
  https://chrome.google.com/extensions/detail/dnfpcpfijpdhabaoieccoclghgplmpbd 
 
 ### Firefox
-https://addons.mozilla.org/en-US/firefox/addon/css-reloader
+https://addons.mozilla.org/firefox/addon/css-reloader
 
 ## Limitations
 
